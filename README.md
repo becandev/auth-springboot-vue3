@@ -2,8 +2,6 @@
 
 ---
 
-**_`Assalaam-Alaikum ---- السَّلامُ عَلَيْكُم ورَحْمَةُ اللهِ وَبَرَكاتُهُ`_** <br/>
-
 Welcome to the **_`Secure Platform with Spring Boot 3, Spring Security 6, PostgreSQL, JWT and Vue.js`_** project. <br/>
 This project is a secure platform designed for user registration, login, and password restoration. It is built using a
 combination of Spring Boot, Spring Security, PostgreSQL, JWT (JSON Web Tokens), and Vue.js.
